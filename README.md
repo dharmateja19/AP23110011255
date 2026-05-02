@@ -113,7 +113,7 @@ http://localhost:5173
 
 ---
 
-## 🔐 API Authentication
+## API Authentication
 
 1. Register using the provided **accessCode**:
 
